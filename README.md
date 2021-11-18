@@ -20,9 +20,7 @@
 
 <br>
 
-<p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias
 
@@ -32,9 +30,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 - NodeJS
+- TypeScript
 - HANDLEBARS
 - Express
-- Mongodb
+- Sequelize
 
 ## 💻 Projeto
 
